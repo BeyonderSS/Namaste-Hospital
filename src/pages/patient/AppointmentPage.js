@@ -1,4 +1,4 @@
-import AppointmentForm from '@/components/AppointmentForm'
+import AppointmentForm from '@/pages/patient/AppointmentForm'
 import React from 'react'
 
 const AppointmentPage = () => {
